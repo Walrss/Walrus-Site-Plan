@@ -3,30 +3,67 @@ content {
     margin: 0 auto;
 }
 
+header {
+    margin: 0 auto;
+    text-align: left;
+}
+
 nav a {
     text-align: center;
-
+    font-size: xx-large;
 }
-#hero-msg h1, #hero-msg h4 {
+
+#hero {
+    text-align: center;
+    font-size: xx-large;
+}
+#hero-msg h1, #hero-msg, h4 {
     text-align: center;
 }
 .button-box {
     text-align: center;
+
 }
 main section{
     text-align: center;
+    font-size: xx-large;
 }
+
+main {
+    text-align: center;
+}
+img.WalrusonIce {
+    width: 500px;
+}
+
 #background {
     height: 725px;
+    text-align: center;
+
 }
 
 
 body {
-    background-color: #fcfbfb; 
+    background-color: #A7BBEC; 
 }
 header {
-    background-color:rgba(20,30,13, .7);
+    background-color:#9097C0;
+}
+#hero-img {
+    width: 100%;
+}
+#walrusonice-img{
+    width: 100%;
+}
+img.logo{
+    height: 150px;
 }
 nav a:hover {
     background-color: black;
+}
+
+footer {
+    background-color: #9097C0;
+    text-align: center;
+    font-size: x-large;
 }
